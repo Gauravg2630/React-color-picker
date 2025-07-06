@@ -9,7 +9,7 @@ Users can select any color using the color input, see the selected color code, a
 
 ## 📸 Screenshot
 
-![Color Picker Screenshot](./screenshot.png) 
+![Color Picker Screenshot](./Screenshot%20(384).png) 
 
 ---
 
